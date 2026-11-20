@@ -4,7 +4,7 @@ An eval-first workbench for authoring and grading AI agent tasks.
 
 Most "agent engineering" portfolios show a demo. This shows the **grading harness** — the part that actually decides whether a model is good enough to ship. Every tool here comes with the task brief, the reference solution, and the checks that catch lazy answers.
 
-**[Live demo →](https://evalbench.vercel.app)** · Built by [Mahaveer Amrani](https://mahaveeramrani.vercel.app)
+**[Live demo →](https://evalbench-roan.vercel.app)** · Built by [Mahaveer Amrani](https://mahaveeramrani.vercel.app)
 
 ---
 
